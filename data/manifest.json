@@ -1,16 +1,16 @@
 {
-  "total": 107,
+  "total": 111,
   "banks": [
     {
       "file": "qiye.json",
       "name": "三峡企业文化与概况",
       "description": "企业使命愿景、价值观、发展历程、三峡工程、清洁能源走廊、长江大保护、集团动态",
-      "count": 49,
+      "count": 53,
       "types": {
         "single": 31,
         "fill": 5,
-        "judge": 9,
-        "multiple": 4
+        "judge": 11,
+        "multiple": 6
       }
     },
     {

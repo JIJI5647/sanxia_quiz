@@ -898,6 +898,85 @@
       "difficulty": 1,
       "source": "中国电力网",
       "source_url": "https://chinapower.org.cn/detail/454283.html"
+    },
+    {
+      "id": "qy-0050",
+      "type": "multiple",
+      "stem": "根据2020年公布的三峡工程整体竣工验收结论，下列属于结论中列举的三峡工程综合效益的有：",
+      "options": [
+        "防洪",
+        "发电",
+        "航运",
+        "水资源利用",
+        "灌溉"
+      ],
+      "answer": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "analysis": "新华社2020年11月1日电：根据验收结论，三峡工程防洪、发电、航运、水资源利用等综合效益全面发挥。灌溉未在该结论中列举。",
+      "tags": [
+        "三峡工程",
+        "练习题"
+      ],
+      "difficulty": 2,
+      "source": "练习题·澎湃新闻（转新华社）",
+      "source_url": "https://www.thepaper.cn/newsDetail_forward_9807108"
+    },
+    {
+      "id": "qy-0051",
+      "type": "multiple",
+      "stem": "三峡电站发出的电能主要送往下列哪些地区？",
+      "options": [
+        "华东",
+        "华中",
+        "广东",
+        "华北",
+        "西北"
+      ],
+      "answer": [
+        "A",
+        "B",
+        "C"
+      ],
+      "analysis": "中国政府网2023年7月转载报道：三峡电站是“西电东送”和“南北互供”的骨干电源点，电能被送往华东、华中、广东等地。",
+      "tags": [
+        "三峡工程",
+        "练习题"
+      ],
+      "difficulty": 2,
+      "source": "练习题·中国政府网",
+      "source_url": "https://www.gov.cn/yaowen/liebiao/202307/content_6891037.htm"
+    },
+    {
+      "id": "qy-0052",
+      "type": "judge",
+      "stem": "三峡船闸采用的是单线连续五级船闸。",
+      "answer": false,
+      "analysis": "三峡集团官网《三峡双线五级船闸简介》：三峡船闸为双线连续五级船闸。",
+      "tags": [
+        "三峡工程",
+        "练习题"
+      ],
+      "difficulty": 1,
+      "source": "练习题·三峡集团官网",
+      "source_url": "https://www.ctg.com.cn/sxjt/zt98/sxcznhylspyddg/313071/index.html"
+    },
+    {
+      "id": "qy-0053",
+      "type": "judge",
+      "stem": "三峡工程的建设资金全部由国家财政拨款。",
+      "answer": false,
+      "analysis": "新浪新闻2002年报道：建设资金主要来源于三峡建设基金、国家开发银行贷款和三峡电站发电收入，另有商业银行贷款、外汇贷款、发行企业债券等渠道。",
+      "tags": [
+        "三峡工程",
+        "练习题"
+      ],
+      "difficulty": 2,
+      "source": "练习题·新浪新闻",
+      "source_url": "https://news.sina.com.cn/c/2002-09-23/1104738091.html"
     }
   ]
 }
