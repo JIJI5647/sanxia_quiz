@@ -18,7 +18,7 @@
         "企业文化"
       ],
       "difficulty": 1,
-      "source": "三峡集团官网新闻（待官网原文复核）",
+      "source": "三峡集团官网新闻",
       "source_url": "https://www.ctg.com.cn/sxjt/xwzx55/zhxw23/2024081106154120672/index.html"
     },
     {
@@ -37,7 +37,7 @@
         "企业文化"
       ],
       "difficulty": 1,
-      "source": "三峡集团官网新闻（待官网原文复核）",
+      "source": "三峡集团官网新闻",
       "source_url": "https://www.ctg.com.cn/sxjt/xwzx55/zhxw23/2024081106154120672/index.html"
     },
     {
@@ -56,7 +56,7 @@
         "企业文化"
       ],
       "difficulty": 1,
-      "source": "三峡集团官网/三峡能源官网（待官网原文复核）",
+      "source": "三峡集团官网/三峡能源官网",
       "source_url": "https://www.ctgne.com/sxxnychina/1078226/1078229/index.html"
     },
     {
@@ -71,7 +71,7 @@
         "企业文化"
       ],
       "difficulty": 2,
-      "source": "三峡集团官网新闻（待官网原文复核）",
+      "source": "三峡集团官网新闻",
       "source_url": "https://www.ctg.com.cn/sxjt/xwzx55/zhxw23/2024081106154120672/index.html"
     },
     {
@@ -85,7 +85,7 @@
         "集团战略"
       ],
       "difficulty": 2,
-      "source": "三峡集团官网新闻（待官网原文复核）",
+      "source": "三峡集团官网新闻",
       "source_url": "https://www.ctg.com.cn/sxjt/xwzx55/zhxw23/2024081106154120672/index.html"
     },
     {
@@ -105,7 +105,7 @@
         "集团战略"
       ],
       "difficulty": 1,
-      "source": "三峡集团官网新闻（待官网原文复核）",
+      "source": "三峡集团官网新闻",
       "source_url": "https://www.ctg.com.cn/sxjt/xwzx55/zhxw23/2024081106154120672/index.html"
     },
     {
@@ -125,7 +125,7 @@
         "社会责任"
       ],
       "difficulty": 2,
-      "source": "三峡集团官网 社会责任-责任理念（待官网原文复核）",
+      "source": "三峡集团官网 社会责任-责任理念",
       "source_url": "https://www.ctg.com.cn/sxjt/shzr37/zrln/index.html"
     },
     {
@@ -141,13 +141,13 @@
         "社会责任"
       ],
       "difficulty": 3,
-      "source": "三峡集团官网 社会责任-责任理念（待官网原文复核）",
+      "source": "三峡集团官网 社会责任-责任理念",
       "source_url": "https://www.ctg.com.cn/sxjt/shzr37/zrln/index.html"
     },
     {
       "id": "qy-0009",
       "type": "single",
-      "stem": "三峡精神的核心内涵是：",
+      "stem": "三峡集团倡导的“三峡精神”是：",
       "options": [
         "为我中华、志建三峡",
         "自力更生、艰苦奋斗",
@@ -155,12 +155,12 @@
         "高峡出平湖、当惊世界殊"
       ],
       "answer": "A",
-      "analysis": "集团领导署名文章《弘扬“为我中华 志建三峡”精神 加快建设世界一流企业》；参建各方一致认为三峡精神的核心内涵是“为我中华、志建三峡”。",
+      "analysis": "集团系统官网署名文章《弘扬“为我中华 志建三峡”精神 加快建设世界一流企业》以“为我中华 志建三峡”表述三峡精神。",
       "tags": [
         "企业文化"
       ],
       "difficulty": 1,
-      "source": "三峡集团系统官网（待官网原文复核）",
+      "source": "长江电力官网（三峡集团领导署名文章）",
       "source_url": "https://www.cypc.com.cn/sxjt/xwzx55/ttxw15/2024081103335860895/index.html"
     },
     {
@@ -168,13 +168,13 @@
       "type": "judge",
       "stem": "三峡集团在发布中文版企业文化核心理念的基础上，于2021年发布了英文版企业文化核心理念。",
       "answer": true,
-      "analysis": "新浪财经2021-10-25转载：三峡集团在发布中文版企业文化核心理念的基础上，现发布英文版企业文化核心理念。",
+      "analysis": "官网《三峡集团发布英文版企业文化核心理念》：在发布中文版企业文化核心理念的基础上，现发布英文版，发布日期2021年10月24日。",
       "tags": [
         "企业文化"
       ],
       "difficulty": 2,
-      "source": "新浪财经转载三峡集团通稿（待官网原文复核）",
-      "source_url": "https://finance.sina.com.cn/enterprise/central/2021-10-25/doc-iktzqtyu3369932.shtml"
+      "source": "三峡集团官网新闻",
+      "source_url": "https://www.ctg.com.cn/sxjt/xwzx55/zhxw23/2024081106154120672/index.html"
     },
     {
       "id": "qy-0011",
@@ -196,7 +196,7 @@
         "企业文化"
       ],
       "difficulty": 2,
-      "source": "三峡集团官网新闻（待官网原文复核）",
+      "source": "三峡集团官网新闻",
       "source_url": "https://www.ctg.com.cn/sxjt/xwzx55/zhxw23/2024081106154120672/index.html"
     },
     {
@@ -215,7 +215,7 @@
         "发展历程"
       ],
       "difficulty": 1,
-      "source": "三峡集团官网 集团简介（待官网原文复核）",
+      "source": "三峡集团官网 集团简介",
       "source_url": "https://www.ctg.com.cn/sxjt/gywm1/jtjj/index.html"
     },
     {
@@ -234,7 +234,7 @@
         "发展历程"
       ],
       "difficulty": 2,
-      "source": "三峡集团官网 集团简介（待官网原文复核）",
+      "source": "三峡集团官网 集团简介",
       "source_url": "https://www.ctg.com.cn/sxjt/gywm1/jtjj/index.html"
     },
     {
@@ -249,7 +249,7 @@
         "发展历程"
       ],
       "difficulty": 2,
-      "source": "三峡集团官网 集团简介（待官网原文复核）",
+      "source": "三峡集团官网 集团简介",
       "source_url": "https://www.ctg.com.cn/sxjt/gywm1/jtjj/index.html"
     },
     {
@@ -268,21 +268,21 @@
         "集团概况"
       ],
       "difficulty": 1,
-      "source": "新华网（待官网原文复核）",
+      "source": "新华网",
       "source_url": "http://www.news.cn/2021-09/26/c_1127905048.htm"
     },
     {
       "id": "qy-0016",
       "type": "judge",
-      "stem": "2002年，中国长江三峡工程开发总公司作为主发起人设立了中国长江电力股份有限公司，经营管理葛洲坝电厂和三峡电厂发电资产。",
+      "stem": "2002年，中国长江三峡工程开发总公司作为主发起人，联合多家企业设立了中国长江电力股份有限公司，公司下设三峡电厂、葛洲坝电厂等机构。",
       "answer": true,
-      "analysis": "集团沿革：2002年9月，中国长江三峡工程开发总公司作为主发起人设立中国长江电力股份有限公司，经营管理葛洲坝电厂和三峡电厂发电资产。",
+      "analysis": "三峡总公司作为主发起人，以葛洲坝电厂经剥离后评估的净资产出资，联合多家企业设立长江电力；2002年9月29日公司宣布成立，下设三峡电厂、葛洲坝电厂、三峡梯调中心和检修厂。",
       "tags": [
         "发展历程"
       ],
       "difficulty": 2,
-      "source": "三峡集团系统官网 集团简介（待官网原文复核）",
-      "source_url": "https://www.ctg.com.cn/sxjt/gywm1/jtjj/index.html"
+      "source": "新浪财经（长江电力发行分析）",
+      "source_url": "https://finance.sina.com.cn/t/20031028/1609494248.shtml"
     },
     {
       "id": "qy-0017",
@@ -291,7 +291,7 @@
       "options": [
         "主动服务长江经济带发展、“一带一路”建设等国家重大战略",
         "在促进区域可持续发展中承担基础保障功能",
-        "在推动清洁能源产业升级和带动中国水电“走出去”中承担引领责任",
+        "在推动清洁能源产业升级和创新发展中承担引领责任",
         "在共抓长江大保护中发挥辅助配合作用"
       ],
       "answer": [
@@ -299,12 +299,12 @@
         "B",
         "C"
       ],
-      "analysis": "官网“集团战略”：主动服务长江经济带发展、“一带一路”建设等国家重大战略，在深度融入长江经济带、共抓长江大保护中发挥骨干主力作用，在促进区域可持续发展中承担基础保障功能，在推动清洁能源产业升级和带动中国水电“走出去”中承担引领责任，建成具有较强创新能力和全球竞争力的世界一流跨国清洁能源集团。D项“辅助配合作用”错误。",
+      "analysis": "官网“集团战略”：主动服务长江经济带发展、“一带一路”建设等国家重大战略，在深度融入长江经济带、共抓长江大保护中发挥骨干主力作用，在促进区域可持续发展中承担基础保障功能，在推动清洁能源产业升级和创新发展中承担引领责任。D项“辅助配合作用”错误。",
       "tags": [
         "集团战略"
       ],
       "difficulty": 2,
-      "source": "三峡集团官网 集团战略（待官网原文复核）",
+      "source": "三峡集团官网 集团战略",
       "source_url": "https://www.ctg.com.cn/sxjt/gywm1/gszl/index.html"
     },
     {
@@ -324,33 +324,33 @@
         "长江大保护"
       ],
       "difficulty": 1,
-      "source": "三峡集团官网 集团战略（待官网原文复核）",
+      "source": "三峡集团官网 集团战略",
       "source_url": "https://www.ctg.com.cn/sxjt/gywm1/gszl/index.html"
     },
     {
       "id": "qy-0019",
       "type": "single",
-      "stem": "据三峡集团官网集团简介，截至2024年底三峡集团可控装机约为：",
+      "stem": "据三峡集团官网集团简介，截至2025年底三峡集团可控装机约为：",
       "options": [
-        "0.88亿千瓦",
         "1.31亿千瓦",
         "1.58亿千瓦",
+        "1.68亿千瓦",
         "2.25亿千瓦"
       ],
       "answer": "C",
-      "analysis": "官网集团简介：截至2024年底，三峡集团可控装机1.58亿千瓦，资产总额1.5万亿元，资信评级保持央企最高级别。",
+      "analysis": "官网集团简介：截至2025年底，三峡集团可控装机1.68亿千瓦，资产总额1.52万亿元，继续保持国家主权级信用评级。",
       "tags": [
         "集团概况",
         "清洁能源"
       ],
       "difficulty": 2,
-      "source": "三峡集团官网 集团简介（待官网原文复核）",
+      "source": "三峡集团官网 集团简介",
       "source_url": "https://www.ctg.com.cn/sxjt/gywm1/jtjj/index.html"
     },
     {
       "id": "qy-0020",
       "type": "single",
-      "stem": "三峡集团通常被定位为“全球最大的________企业、中国最大的清洁能源集团”。",
+      "stem": "据官网集团简介，三峡集团现已成为全球最大的________企业和我国领先的清洁能源、生态环保集团。",
       "options": [
         "核电开发运营",
         "水电开发运营",
@@ -358,12 +358,12 @@
         "特高压输电"
       ],
       "answer": "B",
-      "analysis": "国资委转载经济日报等资料：三峡集团是中国最大的清洁能源集团和全球最大的水电开发运营企业。",
+      "analysis": "官网集团简介：现已成为全球最大的水电开发运营企业和我国领先的清洁能源、生态环保集团。",
       "tags": [
         "集团概况"
       ],
       "difficulty": 1,
-      "source": "三峡集团官网 集团简介（待官网原文复核）",
+      "source": "三峡集团官网 集团简介",
       "source_url": "https://www.ctg.com.cn/sxjt/gywm1/jtjj/index.html"
     },
     {
@@ -383,7 +383,7 @@
         "梯级电站"
       ],
       "difficulty": 2,
-      "source": "国家能源局（待官网原文复核）",
+      "source": "国家能源局",
       "source_url": "https://www.nea.gov.cn/2024-05/17/c_1310775091.htm"
     },
     {
@@ -403,7 +403,7 @@
         "梯级电站"
       ],
       "difficulty": 1,
-      "source": "国家能源局（待官网原文复核）",
+      "source": "国家能源局",
       "source_url": "https://www.nea.gov.cn/2024-05/17/c_1310775091.htm"
     },
     {
@@ -413,7 +413,7 @@
       "options": [
         "跨越1800多公里",
         "共有110台水轮发电机组",
-        "70万千瓦及以上机组占全球同类机组的三分之二",
+        "水位落差超过900米",
         "共有200台水轮发电机组"
       ],
       "answer": [
@@ -421,13 +421,13 @@
         "B",
         "C"
       ],
-      "analysis": "国家能源局：跨越1800多公里，水位落差超900米，共110台水轮发电机组，其中86台为70万千瓦及以上机组，占全球同类机组的三分之二。D项“200台”错误。",
+      "analysis": "国家能源局：跨越1800多公里，水位落差超900米，总计110台水轮发电机组。D项“200台”错误。",
       "tags": [
         "清洁能源",
         "梯级电站"
       ],
       "difficulty": 3,
-      "source": "国家能源局（待官网原文复核）",
+      "source": "国家能源局",
       "source_url": "https://www.nea.gov.cn/2024-05/17/c_1310775091.htm"
     },
     {
@@ -441,7 +441,7 @@
         "集团动态"
       ],
       "difficulty": 2,
-      "source": "湖北日报（待官网原文复核）",
+      "source": "湖北日报",
       "source_url": "https://news.hubeidaily.net/pc/c_5012630.html"
     },
     {
@@ -455,12 +455,12 @@
         "18台"
       ],
       "answer": "C",
-      "analysis": "白鹤滩总装机1600万千瓦，共16台机组，单机容量均为100万千瓦，为世界单机容量最大的水轮发电机组；2022年12月20日全部投产。",
+      "analysis": "界面新闻：白鹤滩总装机1600万千瓦，共安装16台单机容量100万千瓦水轮发电机组，是世界上单机容量最大的水电机组。",
       "tags": [
         "梯级电站"
       ],
       "difficulty": 1,
-      "source": "界面新闻（待官网原文复核）",
+      "source": "界面新闻",
       "source_url": "https://www.jiemian.com/article/6289981.html"
     },
     {
@@ -471,14 +471,14 @@
         "2022",
         "2022年"
       ],
-      "analysis": "报道：白鹤滩首批机组2021年6月28日投产，2022年12月20日全部投产发电。",
+      "analysis": "国务院国资委网站转载：2022年12月20日，白鹤滩水电站最后一台机组完成72小时试运行并投产，16台百万千瓦机组全部投产发电，世界最大清洁能源走廊全面建成。",
       "tags": [
         "梯级电站",
         "发展历程"
       ],
       "difficulty": 2,
-      "source": "界面新闻（待官网原文复核）",
-      "source_url": "https://www.jiemian.com/article/6289981.html"
+      "source": "国务院国资委网站",
+      "source_url": "http://www.sasac.gov.cn/n2588025/n2588124/c26769442/content.html"
     },
     {
       "id": "qy-0027",
@@ -491,12 +491,12 @@
         "77万千瓦"
       ],
       "answer": "B",
-      "analysis": "乌东德水电站共12台单机85万千瓦机组，2020年6月首批机组投产，2021年6月全部投产。",
+      "analysis": "三峡建工官网：乌东德水电站装机1020万千瓦，左右岸电站厂房各安装6台单机容量850MW（85万千瓦）的机组。",
       "tags": [
         "梯级电站"
       ],
       "difficulty": 2,
-      "source": "三峡建工官网 乌东德水电站（待官网原文复核）",
+      "source": "三峡建工官网 乌东德水电站",
       "source_url": "https://www.ctgpc.com.cn/jsglj/jpgc/wddsdz49/index.html"
     },
     {
@@ -515,7 +515,7 @@
         "梯级电站"
       ],
       "difficulty": 2,
-      "source": "国家能源局等（待官网原文复核）",
+      "source": "国家能源局等",
       "source_url": "http://www.nea.gov.cn/2021-06/05/c_139993101.htm"
     },
     {
@@ -523,14 +523,14 @@
       "type": "judge",
       "stem": "葛洲坝水利枢纽是长江上第一座大型水利枢纽，被视为三峡工程的“试验坝”，于1988年全部建成。",
       "answer": true,
-      "analysis": "报道：葛洲坝是长江首座大型水利枢纽，是三峡工程的试验坝；1981年首台机组发电，1988年底全面投产。",
+      "analysis": "界面新闻：葛洲坝工程是长江首座大型水利枢纽，是三峡工程的试验坝。共产党员网（新华社图片）：第二期工程1982年开始，1988年底全部工程建设完工。",
       "tags": [
         "梯级电站",
         "发展历程"
       ],
       "difficulty": 2,
-      "source": "环球网等（待官网原文复核）",
-      "source_url": "https://m.huanqiu.com/article/3zDnLY1fUtt"
+      "source": "界面新闻/共产党员网",
+      "source_url": "https://m.jiemian.com/article/3862480.html"
     },
     {
       "id": "qy-0030",
@@ -543,12 +543,12 @@
         "145米"
       ],
       "answer": "B",
-      "analysis": "坝轴线全长2309.5米，坝顶高程185米，最大坝高181米。",
+      "analysis": "中国水科院：三峡大坝坝轴线全长2309.47米，坝顶高程185米，最大坝高181米。",
       "tags": [
         "三峡工程"
       ],
       "difficulty": 1,
-      "source": "中国水科院（待官网原文复核）",
+      "source": "中国水科院",
       "source_url": "http://www.iwhr.com/zgskywwnew/ztbd/jjsx/ymzl/webinfo/2011/10/1318551537448482.htm"
     },
     {
@@ -562,13 +562,13 @@
         "185米、175米"
       ],
       "answer": "C",
-      "analysis": "正常蓄水位175米、相应库容393亿立方米；汛期防洪限制水位145米，防洪库容221.5亿立方米。",
+      "analysis": "据长江水利委员会介绍，三峡水库水位自正常蓄水位175米左右消落至汛限水位145米，腾出防洪库容221.5亿立方米。",
       "tags": [
         "三峡工程"
       ],
       "difficulty": 2,
-      "source": "中国水科院（待官网原文复核）",
-      "source_url": "http://www.iwhr.com/zgskywwnew/ztbd/jjsx/ymzl/webinfo/2011/10/1318551537448482.htm"
+      "source": "中国日报网（转新华社，引长江水利委员会）",
+      "source_url": "https://cn.chinadaily.com.cn/a/202006/10/WS5ee02915a31027ab2a8cf411.html"
     },
     {
       "id": "qy-0032",
@@ -578,13 +578,13 @@
         "2250",
         "2250万千瓦"
       ],
-      "analysis": "坝后式电站26台×70万=1820万，地下电站6台×70万=420万，电源电站2台×5万=10万，合计2250万千瓦。",
+      "analysis": "人民论坛网：三峡电站共安装32台70万千瓦和2台5万千瓦水轮发电机组，总装机容量2250万千瓦。",
       "tags": [
         "三峡工程"
       ],
       "difficulty": 1,
-      "source": "中国水科院（待官网原文复核）",
-      "source_url": "http://www.iwhr.com/zgskywwnew/ztbd/jjsx/ymzl/webinfo/2011/10/1318551537448482.htm"
+      "source": "人民论坛网",
+      "source_url": "https://www.rmlt.com.cn/2018/1217/535376.shtml"
     },
     {
       "id": "qy-0033",
@@ -597,12 +597,12 @@
         "221.5亿立方米"
       ],
       "answer": "D",
-      "analysis": "汛期防洪限制水位145米，防洪库容221.5亿立方米；正常蓄水位175米相应库容393亿立方米。",
+      "analysis": "中国水科院：三峡水库形成防洪库容221.5亿立方米。",
       "tags": [
         "三峡工程"
       ],
       "difficulty": 2,
-      "source": "中国水科院（待官网原文复核）",
+      "source": "中国水科院",
       "source_url": "http://www.iwhr.com/zgskywwnew/ztbd/jjsx/ymzl/webinfo/2011/10/1318551537448482.htm"
     },
     {
@@ -615,7 +615,7 @@
         "三峡工程"
       ],
       "difficulty": 1,
-      "source": "中国水科院（待官网原文复核）",
+      "source": "中国水科院",
       "source_url": "http://www.iwhr.com/zgskywwnew/ztbd/jjsx/ymzl/webinfo/2011/10/1318551537448482.htm"
     },
     {
@@ -629,13 +629,13 @@
         "1992年4月3日、1998年11月8日"
       ],
       "answer": "A",
-      "analysis": "1994年12月14日三峡坝址举行开工典礼，宣告正式开工；1997年11月8日实现大江截流，标志着一期工程完成。",
+      "analysis": "1994年12月14日三峡工程正式开工；1997年11月8日实现大江截流。",
       "tags": [
         "三峡工程",
         "发展历程"
       ],
       "difficulty": 2,
-      "source": "澎湃新闻（待官网原文复核）",
+      "source": "澎湃号·政务",
       "source_url": "https://m.thepaper.cn/newsDetail_forward_29653722"
     },
     {
@@ -649,13 +649,13 @@
         "2022年12月"
       ],
       "answer": "C",
-      "analysis": "澎湃新闻：2020年11月，国家宣布完成三峡工程整体竣工验收全部程序。",
+      "analysis": "新华社2020年11月1日电：水利部、国家发展改革委1日公布，三峡工程日前完成整体竣工验收全部程序。",
       "tags": [
         "三峡工程",
         "发展历程"
       ],
       "difficulty": 1,
-      "source": "澎湃新闻（待官网原文复核）",
+      "source": "澎湃新闻（转新华社）",
       "source_url": "https://www.thepaper.cn/newsDetail_forward_9807108"
     },
     {
@@ -669,14 +669,14 @@
         "2009年"
       ],
       "answer": "B",
-      "analysis": "2009年第二次175米试验性蓄水达到171.43米；2010年9月第三次启动，10月水库首次达到175米。",
+      "analysis": "南方周末：2010年10月26日，三峡集团董事长在大坝坝顶宣告175米蓄水目标实现，这是试验性蓄水以来首次达到该高度。",
       "tags": [
         "三峡工程",
         "发展历程"
       ],
       "difficulty": 3,
-      "source": "维基百科（待官网原文复核）",
-      "source_url": "https://zh.wikipedia.org/zh-hans/%E9%95%BF%E6%B1%9F%E4%B8%89%E5%B3%A1%E6%B0%B4%E5%88%A9%E6%9E%A2%E7%BA%BD%E5%B7%A5%E7%A8%8B"
+      "source": "南方周末（新浪转载）",
+      "source_url": "https://news.sina.cn/sa/2010-11-01/detail-ikftssap3388187.d.html"
     },
     {
       "id": "qy-0038",
@@ -689,24 +689,25 @@
         "三个一流、四个典范"
       ],
       "answer": "A",
-      "analysis": "集团官网文章：习近平总书记视察三峡工程，给予“一个标志、三个典范”的高度评价，嘱咐“核心技术、关键技术要靠我们自己攻关”。",
+      "analysis": "人民政协网：2018年4月24日，习近平总书记视察三峡工程时指出“三峡工程是国之重器”，并给予“一个标志，三个典范”的高度评价。",
       "tags": [
         "三峡工程",
         "企业文化"
       ],
       "difficulty": 2,
-      "source": "三峡集团官网（待官网原文复核）",
-      "source_url": "https://www.ctg.com.cn/sxjt/xwzx55/zhxw23/2024081106200826894/index.html"
+      "source": "人民政协网",
+      "source_url": "https://www.rmzxw.com.cn/c/2022-11-03/3234065.shtml"
     },
     {
       "id": "qy-0039",
       "type": "multiple",
-      "stem": "三峡集团共抓长江大保护首批签署战略合作框架协议的4个试点城市包括：",
+      "stem": "长江大保护首批4个试点城市包括：",
       "options": [
         "宜昌",
         "九江",
         "岳阳",
-        "芜湖"
+        "芜湖",
+        "武汉"
       ],
       "answer": [
         "A",
@@ -714,13 +715,13 @@
         "C",
         "D"
       ],
-      "analysis": "官网《三峡集团奋力书写共抓长江大保护时代答卷》：先后与宜昌、九江、岳阳、芜湖四个试点城市签署战略合作框架协议。",
+      "analysis": "长江环保集团官网：业务区域从江西九江、安徽芜湖、湖南岳阳、湖北宜昌4个试点城市拓展到长江经济带11省市。武汉属于第二批合作城市。",
       "tags": [
         "长江大保护"
       ],
       "difficulty": 2,
-      "source": "三峡集团官网（待官网原文复核）",
-      "source_url": "https://www.ctg.com.cn/sxjt/sthb/hbzyzt/2024081108282798061/index.html"
+      "source": "长江环保集团官网",
+      "source_url": "https://www.yeec.com.cn/hbjt/gywm47/qyjj/index.html"
     },
     {
       "id": "qy-0040",
@@ -738,21 +739,21 @@
         "长江大保护"
       ],
       "difficulty": 2,
-      "source": "三峡集团官网（待官网原文复核）",
+      "source": "三峡集团官网",
       "source_url": "https://www.ctg.com.cn/sxjt/sthb/hbzyzt/2024081108282798061/index.html"
     },
     {
       "id": "qy-0041",
       "type": "judge",
-      "stem": "长江环保集团于2018年底在湖北武汉组建，是三峡集团共抓长江大保护的实施主体。",
+      "stem": "长江环保集团于2018年12月28日成立，是三峡集团的全资子公司、生态环保业务实施主体。",
       "answer": true,
-      "analysis": "资料：长江环保集团于2018年底在湖北武汉组建，按公司化、市场化方式运转。",
+      "analysis": "长江环保集团官网：作为三峡集团的全资子公司、生态环保业务实施主体，长江环保集团于2018年12月28日成立，注册资本金300亿元。",
       "tags": [
         "长江大保护"
       ],
       "difficulty": 2,
-      "source": "长江环保集团官网/人民日报（待官网原文复核）",
-      "source_url": "https://www.yeec.com.cn/hbjt/zxjj/ddjs62/201925/2024080915574599205/index.html"
+      "source": "长江环保集团官网",
+      "source_url": "https://www.yeec.com.cn/hbjt/gywm47/qyjj/index.html"
     },
     {
       "id": "qy-0042",
@@ -771,7 +772,7 @@
         "集团动态"
       ],
       "difficulty": 2,
-      "source": "科技日报（待官网原文复核）",
+      "source": "科技日报",
       "source_url": "https://www.stdaily.com/web/gdxw/2026-02/06/content_471177.html"
     },
     {
@@ -785,13 +786,13 @@
         "集团动态"
       ],
       "difficulty": 2,
-      "source": "中国日报网（待官网原文复核）",
+      "source": "中国日报网",
       "source_url": "https://hb.chinadaily.com.cn/a/202512/16/WS69411c9fa310942cc4996f17.html"
     },
     {
       "id": "qy-0044",
       "type": "single",
-      "stem": "2011年三峡集团入股的葡萄牙电力公司（EDP），三峡集团由此成为其：",
+      "stem": "2011年三峡集团入股葡萄牙电力公司（EDP），由此成为其：",
       "options": [
         "第一大股东",
         "第二大股东",
@@ -799,18 +800,18 @@
         "战略财务投资者（持股不足5%）"
       ],
       "answer": "A",
-      "analysis": "官网《三峡集团27亿欧元入股葡萄牙电力》：取得21.35%股份，成为第一大股东。",
+      "analysis": "官网转载报道《三峡集团27亿欧元入股葡萄牙电力》：三峡集团斥资26.9亿欧元收购EDP 21.35%的股份，成为单一最大股东。",
       "tags": [
         "国际业务"
       ],
       "difficulty": 2,
-      "source": "三峡集团官网（待官网原文复核）",
+      "source": "三峡集团官网",
       "source_url": "https://www.ctg.com.cn/sxjt/xwzx55/dmtj31/2024081108522259461/index.html"
     },
     {
       "id": "qy-0045",
       "type": "single",
-      "stem": "被视为“一带一路”首个大型水电投资项目、列入中巴经济走廊优先项目的三峡集团海外电站是：",
+      "stem": "被称为“一带一路”首个大型水电投资项目的三峡集团海外电站是：",
       "options": [
         "科哈拉水电站",
         "卡洛特水电站",
@@ -818,12 +819,12 @@
         "朱比亚水电站"
       ],
       "answer": "B",
-      "analysis": "官网国际业务综述等资料：巴基斯坦卡洛特水电站2015年开工，是“一带一路”首个大型水电投资项目。",
+      "analysis": "官网国际业务综述：作为“一带一路”首个大型水电投资项目，巴基斯坦卡洛特水电站于2015年开工建设。",
       "tags": [
         "国际业务"
       ],
       "difficulty": 2,
-      "source": "三峡集团官网 国际业务（待官网原文复核）",
+      "source": "三峡集团官网 国际业务",
       "source_url": "https://www.ctg.com.cn/sxjt/dlfj5/gjyw.html"
     },
     {
@@ -836,7 +837,7 @@
         "国际业务"
       ],
       "difficulty": 2,
-      "source": "界面新闻（待官网原文复核）",
+      "source": "界面新闻",
       "source_url": "https://www.jiemian.com/article/499648.html"
     },
     {
@@ -850,13 +851,13 @@
         "王琳"
       ],
       "answer": "C",
-      "analysis": "界面新闻：水利部副部长刘伟平调任三峡集团董事长、党组书记（2024年4月15日宣布）。",
+      "analysis": "界面新闻：2024年4月15日宣布，刘伟平任三峡集团董事长、党组书记。2026年11月核对官网领导团队页面，刘伟平仍在任。",
       "tags": [
         "集团动态",
         "领导"
       ],
       "difficulty": 1,
-      "source": "界面新闻（待官网原文复核）",
+      "source": "界面新闻",
       "source_url": "https://www.jiemian.com/article/10722206.html"
     },
     {
@@ -870,14 +871,14 @@
         "曾义"
       ],
       "answer": "A",
-      "analysis": "澎湃新闻：2024年6月26日宣布李富民任三峡集团董事、总经理、党组副书记；官网领导团队页面列示其职务。",
+      "analysis": "澎湃新闻：2024年6月公布李富民任三峡集团总经理。2026年11月核对官网领导团队页面：李富民任董事、总经理、党组副书记。",
       "tags": [
         "集团动态",
         "领导"
       ],
       "difficulty": 1,
-      "source": "澎湃新闻/三峡集团官网（待官网原文复核）",
-      "source_url": "https://www.thepaper.cn/newsDetail_forward_27863204"
+      "source": "三峡集团官网 领导团队",
+      "source_url": "https://www.ctg.com.cn/sxjt/gywm1/ldtd5/index.html"
     },
     {
       "id": "qy-0049",
@@ -895,7 +896,7 @@
         "集团动态"
       ],
       "difficulty": 1,
-      "source": "中国电力网（待官网原文复核）",
+      "source": "中国电力网",
       "source_url": "https://chinapower.org.cn/detail/454283.html"
     }
   ]
