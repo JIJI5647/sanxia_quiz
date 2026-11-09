@@ -1,0 +1,29 @@
+{
+  "total": 107,
+  "banks": [
+    {
+      "file": "qiye.json",
+      "name": "三峡企业文化与概况",
+      "description": "企业使命愿景、价值观、发展历程、三峡工程、清洁能源走廊、长江大保护、集团动态",
+      "count": 49,
+      "types": {
+        "single": 31,
+        "fill": 5,
+        "judge": 9,
+        "multiple": 4
+      }
+    },
+    {
+      "file": "shizheng.json",
+      "name": "时政",
+      "description": "国内重大会议与政策、外交、能源双碳、科技成就（按事件年月标签）",
+      "count": 58,
+      "types": {
+        "single": 34,
+        "multiple": 8,
+        "judge": 11,
+        "fill": 5
+      }
+    }
+  ]
+}
